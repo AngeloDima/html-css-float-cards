@@ -20,7 +20,7 @@ header h1{
     text-align: center;
     width: 70%;
     height: 40px;
-    background-color: red;
+    background-color: ;
     margin: auto;
     margin-top: 60px;
 }
@@ -29,7 +29,7 @@ header h1{
 #Elementi-float{
     width: 70%;
     height: 350px;
-    background-color: green ;
+    background-color:  ;
     margin: auto;
     margin-top: 20px;
 }
@@ -38,7 +38,13 @@ header h1{
 .Box-size{
     width: calc(100% / 3 - 50px);
     height: 30%;
-    background-color: blanchedalmond;
+    background-color: black;
     float: left;
     margin: 35px 25px;
+}
+
+.imag{
+    width: 30%;
+    height: 100%;
+    background-color: red;
 }
