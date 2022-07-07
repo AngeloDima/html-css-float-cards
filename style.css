@@ -22,16 +22,18 @@ header h1{
     text-align: center;
     width: 70%;
     height: 40px;
-    background-color: ;
     margin: auto;
     margin-top: 60px;
+    color: #525252;
+
+    font-size: 1.1rem;
+    font-family: 'Roboto', sans-serif;
 }
 
 
 #Elementi-float{
     width: 70%;
     height: 350px;
-    background-color:  ;
     margin: auto;
     margin-top: 20px;
 }
