@@ -5,6 +5,7 @@
     
 }
 
+/* -----------------Header----------------- */
 
 header h1{
     color: #e53170;
@@ -15,9 +16,10 @@ header h1{
     font-family: 'Fredoka One', cursive;
 }
     
+/* -----------------Header end----------------- */
 
 
-
+/* -----------------Main----------------- */
 #Paragrafo{
     text-align: center;
     width: 70%;
@@ -38,6 +40,8 @@ header h1{
     margin-top: 20px;
 }
 
+
+/* ----Box----- */
 
 .Box-size{
     width: calc(100% / 3 - 50px);
@@ -83,3 +87,7 @@ header h1{
     color: #479dc7;
     text-decoration: none;
 }
+
+/* ----Box END----- */
+
+/* -----------------Main End----------------- */
