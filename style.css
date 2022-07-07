@@ -42,6 +42,8 @@ header h1{
     background-color: black;
     float: left;
     margin: 35px 25px;
+
+    box-shadow: 6px 6px 13px #979797;
 }
 
 .imag{
@@ -71,6 +73,7 @@ header h1{
 
 .Info p{
     color: #cdcdcd;
+    margin: 2px 0px;
 }
 
 .Info a{
